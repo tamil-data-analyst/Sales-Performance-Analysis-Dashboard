@@ -4,13 +4,13 @@ End-to-End Sales Analysis using Python, SQL &amp; Power BI | Data Cleaning, EDA,
 
 ## 🎯 Project Overview
 End-to-End Sales Analysis using Python, SQL & Power BI
-on 1260 rows real-world dataset with Data Cleaning,
-EDA, Visualization & Interactive Dashboard.
+on 1260 rows real-world dataset.
 
 ## 🛠️ Tools Used
 - Python | Pandas | Matplotlib | Seaborn
 - SQL | SQLite
 - Power BI | Excel
+- Machine Learning | Scikit-learn
 
 ## ✅ Project Phases
 - Phase 1: Raw Data Collection (Excel - 1260 rows)
@@ -18,6 +18,7 @@ EDA, Visualization & Interactive Dashboard.
 - Phase 3: SQL Analysis (SQLite)
 - Phase 4: Data Visualization (Matplotlib & Seaborn)
 - Phase 5: Interactive Power BI Dashboard
+- Phase 6: ML Models (Regression, Clustering, Forecasting)
 
 ## 📊 Key Insights
 ### 💰 Revenue Insights
@@ -28,17 +29,18 @@ EDA, Visualization & Interactive Dashboard.
 
 ### 👥 Sales Team Insights
 - Top Salesperson: Isha Gupta (₹3.15M)
-- 2nd: Arun Kumar (₹3.14M)
-- 3rd: Chetan Patel (₹3.14M)
-
-### 📈 Profit Insights
-- Total Profit: ₹4.99M
-- Profit Margin: ~17%
 - Best Profit: Chetan Patel (₹613K)
+- Total Salespersons: 10
 
-### 🔍 Data Cleaning Insights
-- Total Orders: 1146
-- Dataset: 1260 rows cleaned
+### 🤖 ML Insights
+- Linear Regression R² Score: 0.8+
+- Customer Segments: 4 Groups
+  (VIP, Premium, Regular, Occasional)
+- Sales Forecast: Upward trend next 6 months
+
+### 🔍 Data Insights
+- Raw Data: 1260 rows
+- After Cleaning: 1146 rows
 - Duplicates Removed: 44
 - Null Values Fixed: 100+
 
@@ -50,4 +52,9 @@ EDA, Visualization & Interactive Dashboard.
 
 
 
-![Python Dashboard](pro_dashboard.png)
+![ML Analysis](ml_analysis.png)
+
+
+
+## 🔗 Project Link
+https://github.com/tamil-data-analyst/Sales-Performance-Analysis-Dashboard
